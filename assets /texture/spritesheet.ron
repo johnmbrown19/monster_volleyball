@@ -1,0 +1,13 @@
+List((
+    texture_width: 476,
+    texture_height: 875,
+    sprites: [
+        (
+            //Pikachu
+            x: 2, 
+            y: 266,
+            width: 64,
+            height: 64,
+        ),
+    ]
+))
